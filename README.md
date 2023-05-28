@@ -1,12 +1,7 @@
 # FlippedOS
 Flipper zero payloads for IOS devices.
 
-/██████╗ ██████╗ ██╗     ███████╗██╗████████╗
-██╔════╝██╔═══██╗██║     ██╔════╝██║╚══██╔══╝
-██║     ██║   ██║██║     █████╗  ██║   ██║   
-██║     ██║   ██║██║     ██╔══╝  ██║   ██║   
-╚██████╗╚██████╔╝███████╗███████╗██║   ██║   
- ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝   ╚═╝
+MADE BY COLEIT!!
  
  Disclaimer: I am NOT responsible for ANY damages you cause to peoples personal information or devices when you use this payload.
  
