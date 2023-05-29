@@ -1,0 +1,22 @@
+MADE BY COLEIT
+
+How to use payload:
+
+Step 1: Download the .txt file.
+
+!!IMPORTANT!! Step 2 *part a*: You MUST edit the file, as you need to provide the link you would like them to open. But before you do that, you need to know where to get the link from!
+
+!!IMPORTANT!! Step 2 *part b*: Go to https://github.com/htr-tech/zphisher then install & set it up. After running the bash command to open the program.
+You can then select which page you want to replicate using the phishing software. Personally, I use the google login page as it looks the most realistic and also would be common ask for you to sign in to. *This isn't me saying to use this maliciously btw*
+
+Step 3: Now that you have ran zphisher, you will need to copy the first link they provide in the program. It will read something like this" https://blahblahblah.trycloudflare.com
+
+Step 4: Now that you have the link copied, you need to paste it into FlippedOS.txt on line 17, where it says Change_me_to_your_link.
+
+Step 5: Now all you have to do is drag it into your BadUSB folder, I use qFlipper to do this. Then boot up your flipper and connect it to your phone. I like to use BadBT (bad bluetooth), as you can easily fake to be any device.
+
+!!IMPORTANT!! Step 6: Run it on the flipper zero. IT MAY NOT HIT THE FIRST TIME YOU RUN IT. If the link isn't opening, give it a couple spam clicks, that should do the trick (ive learned most IOS payloads are a lil weird like this)
+
+NOW HAVE FUN!!!
+
+Brought to you by COLEIT. Check out my clothing brand: phrric.com
