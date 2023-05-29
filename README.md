@@ -1,6 +1,8 @@
 # FlippedOS
 Flipper zero payloads for IOS devices.
 
+!!!IMPORTANT!!! In order for this to work, you MUST create your own link using zphisher! If you don't, no link will pull up on their device, so MAKE SURE YOU DO THAT.
+
 MADE BY COLEIT!!
  
  Disclaimer: I am NOT responsible for ANY damages you cause to peoples personal information or devices when you use this payload.
