@@ -17,6 +17,8 @@ Step 5: Now all you have to do is drag it into your BadUSB folder, I use qFlippe
 
 !!IMPORTANT!! Step 6: Run it on the flipper zero. IT MAY NOT HIT THE FIRST TIME YOU RUN IT. If the link isn't opening, give it a couple spam clicks, that should do the trick (ive learned most IOS payloads are a lil weird like this)
 
+NOTABLE STEP: !!IMPORTANT!! This is also important to keep in mind: If you shut down the terminal zphisher is running on, the link you have in the .txt will stop working so you will need to re generate the link! This means you must keep zphisher's program open while using anywhere.
+
 NOW HAVE FUN!!!
 
 Brought to you by COLEIT. Check out my clothing brand: phrric.com
